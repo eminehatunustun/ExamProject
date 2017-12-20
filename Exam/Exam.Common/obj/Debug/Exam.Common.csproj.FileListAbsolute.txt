@@ -1,0 +1,40 @@
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam.Common\bin\Debug\Exam.Common.dll
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam.Common\bin\Debug\Exam.Common.pdb
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam.Common\obj\Debug\Exam.Common.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam.Common\obj\Debug\Exam.Common.dll
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam.Common\obj\Debug\Exam.Common.pdb
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam.Common\bin\Debug\Exam.Common.dll
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam.Common\bin\Debug\Exam.Common.pdb
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam.Common\obj\Debug\Exam.Common.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam.Common\obj\Debug\Exam.Common.dll
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam.Common\obj\Debug\Exam.Common.pdb
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam.Common\bin\Debug\Exam.Common.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam.Common\bin\Debug\Exam.Common.pdb
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam.Common\obj\Debug\Exam.Common.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam.Common\obj\Debug\Exam.Common.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam.Common\obj\Debug\Exam.Common.pdb
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam.Common\bin\Debug\Exam.Common.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam.Common\bin\Debug\Exam.Common.pdb
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam.Common\obj\Debug\Exam.Common.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam.Common\obj\Debug\Exam.Common.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam.Common\obj\Debug\Exam.Common.pdb
+C:\Users\Wissen\Desktop\x\Exam\Exam.Common\bin\Debug\Exam.Common.dll
+C:\Users\Wissen\Desktop\x\Exam\Exam.Common\bin\Debug\Exam.Common.pdb
+C:\Users\Wissen\Desktop\x\Exam\Exam.Common\obj\Debug\Exam.Common.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\x\Exam\Exam.Common\obj\Debug\Exam.Common.dll
+C:\Users\Wissen\Desktop\x\Exam\Exam.Common\obj\Debug\Exam.Common.pdb
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam.Common\bin\Debug\Exam.Common.dll
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam.Common\bin\Debug\Exam.Common.pdb
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam.Common\obj\Debug\Exam.Common.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam.Common\obj\Debug\Exam.Common.dll
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam.Common\obj\Debug\Exam.Common.pdb
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam.Common\bin\Debug\Exam.Common.dll
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam.Common\bin\Debug\Exam.Common.pdb
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam.Common\obj\Debug\Exam.Common.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam.Common\obj\Debug\Exam.Common.dll
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam.Common\obj\Debug\Exam.Common.pdb
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam.Common\bin\Debug\Exam.Common.dll
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam.Common\bin\Debug\Exam.Common.pdb
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam.Common\obj\Debug\Exam.Common.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam.Common\obj\Debug\Exam.Common.dll
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam.Common\obj\Debug\Exam.Common.pdb

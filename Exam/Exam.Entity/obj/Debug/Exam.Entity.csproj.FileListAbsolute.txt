@@ -1,0 +1,20 @@
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam.Entity\bin\Debug\Exam.Entity.dll
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam.Entity\bin\Debug\Exam.Entity.pdb
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam.Entity\obj\Debug\Exam.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam.Entity\obj\Debug\Exam.Entity.dll
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam.Entity\obj\Debug\Exam.Entity.pdb
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam.Entity\bin\Debug\Exam.Entity.dll
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam.Entity\bin\Debug\Exam.Entity.pdb
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam.Entity\obj\Debug\Exam.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam.Entity\obj\Debug\Exam.Entity.dll
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam.Entity\obj\Debug\Exam.Entity.pdb
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam.Entity\bin\Debug\Exam.Entity.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam.Entity\bin\Debug\Exam.Entity.pdb
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam.Entity\obj\Debug\Exam.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam.Entity\obj\Debug\Exam.Entity.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam.Entity\obj\Debug\Exam.Entity.pdb
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam.Entity\bin\Debug\Exam.Entity.dll
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam.Entity\bin\Debug\Exam.Entity.pdb
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam.Entity\obj\Debug\Exam.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam.Entity\obj\Debug\Exam.Entity.dll
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam.Entity\obj\Debug\Exam.Entity.pdb

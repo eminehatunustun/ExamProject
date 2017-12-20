@@ -1,0 +1,309 @@
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\bin\roslyn\csc.exe
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\bin\roslyn\vbc.exe
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\bin\Exam.dll.config
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\bin\Exam.dll
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\bin\Exam.pdb
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\obj\Debug\Exam.dll
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\obj\Debug\Exam.pdb
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\bin\Exam.DAL.dll
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\bin\Exam.Entity.dll
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\bin\Exam.DAL.pdb
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\bin\Exam.Entity.pdb
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\bin\Exam.Common.dll
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam\bin\Exam.Common.pdb
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\bin\roslyn\csc.exe
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\bin\roslyn\vbc.exe
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\bin\Exam.dll.config
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\bin\Exam.dll
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\bin\Exam.pdb
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\bin\Exam.Common.dll
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\bin\Exam.DAL.dll
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\bin\Exam.Entity.dll
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\bin\Exam.Common.pdb
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\bin\Exam.DAL.pdb
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\bin\Exam.Entity.pdb
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\obj\Debug\Exam.dll
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam\obj\Debug\Exam.pdb
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\bin\roslyn\csc.exe
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\bin\roslyn\vbc.exe
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\bin\Exam.dll.config
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\bin\Exam.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\bin\Exam.pdb
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\bin\Exam.Common.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\bin\Exam.DAL.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\bin\Exam.Entity.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\bin\Exam.Common.pdb
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\bin\Exam.DAL.pdb
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\bin\Exam.Entity.pdb
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\obj\Debug\Exam.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam\obj\Debug\Exam.pdb
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\bin\roslyn\csc.exe
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\bin\roslyn\vbc.exe
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\bin\Exam.dll.config
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\bin\Exam.dll
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\bin\Exam.pdb
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\bin\Exam.Common.dll
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\bin\Exam.DAL.dll
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\bin\Exam.Entity.dll
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\bin\Exam.Common.pdb
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\bin\Exam.DAL.pdb
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\bin\Exam.Entity.pdb
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\obj\Debug\Exam.dll
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam\obj\Debug\Exam.pdb
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\roslyn\csc.exe
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\roslyn\vbc.exe
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\Exam.dll.config
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\Exam.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\Exam.pdb
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\Exam.Common.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\Exam.DAL.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\Exam.Entity.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\Exam.Common.pdb
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\Exam.DAL.pdb
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\Exam.Entity.pdb
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\obj\Debug\Exam.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\obj\Debug\Exam.pdb
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\DevExpress.Data.v17.2.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\DevExpress.Web.ASPxThemes.v17.2.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\DevExpress.Web.Resources.v17.2.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\DevExpress.Web.v17.2.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\DevExpress.Office.v17.2.Core.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\DevExpress.Images.v17.2.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\DevExpress.Data.v17.2.xml
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\DevExpress.Printing.v17.2.Core.xml
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\DevExpress.Web.v17.2.xml
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\DevExpress.Office.v17.2.Core.xml
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\de\DevExpress.Web.Resources.v17.2.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\es\DevExpress.Web.Resources.v17.2.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\ja\DevExpress.Web.Resources.v17.2.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\ru\DevExpress.Web.Resources.v17.2.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\de\DevExpress.Web.v17.2.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\es\DevExpress.Web.v17.2.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\ja\DevExpress.Web.v17.2.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\ru\DevExpress.Web.v17.2.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\bin\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam\obj\Debug\Exam.dll.licenses
+C:\Users\Wissen\Desktop\x\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\x\Exam\Exam\obj\Debug\Exam.dll.licenses
+C:\Users\Wissen\Desktop\x\Exam\Exam\obj\Debug\Exam.dll
+C:\Users\Wissen\Desktop\x\Exam\Exam\obj\Debug\Exam.pdb
+C:\Users\Wissen\Desktop\x\Exam\Exam\bin\roslyn\csc.exe
+C:\Users\Wissen\Desktop\x\Exam\Exam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\x\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wissen\Desktop\x\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\x\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wissen\Desktop\x\Exam\Exam\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wissen\Desktop\x\Exam\Exam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wissen\Desktop\x\Exam\Exam\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wissen\Desktop\x\Exam\Exam\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wissen\Desktop\x\Exam\Exam\bin\roslyn\vbc.exe
+C:\Users\Wissen\Desktop\x\Exam\Exam\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wissen\Desktop\x\Exam\Exam\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wissen\Desktop\x\Exam\Exam\bin\Exam.dll.config
+C:\Users\Wissen\Desktop\x\Exam\Exam\bin\Exam.dll
+C:\Users\Wissen\Desktop\x\Exam\Exam\bin\Exam.pdb
+C:\Users\Wissen\Desktop\x\Exam\Exam\bin\Exam.Common.dll
+C:\Users\Wissen\Desktop\x\Exam\Exam\bin\Exam.DAL.dll
+C:\Users\Wissen\Desktop\x\Exam\Exam\bin\Exam.Entity.dll
+C:\Users\Wissen\Desktop\x\Exam\Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wissen\Desktop\x\Exam\Exam\bin\Exam.Common.pdb
+C:\Users\Wissen\Desktop\x\Exam\Exam\bin\Exam.DAL.pdb
+C:\Users\Wissen\Desktop\x\Exam\Exam\bin\Exam.Entity.pdb
+C:\Users\Wissen\Desktop\x\Exam\Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\obj\Debug\Exam.dll.licenses
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\obj\Debug\Exam.dll
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\obj\Debug\Exam.pdb
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\bin\roslyn\csc.exe
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\bin\roslyn\vbc.exe
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\bin\Exam.dll.config
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\bin\Exam.dll
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\bin\Exam.pdb
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\bin\Exam.Common.dll
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\bin\Exam.DAL.dll
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\bin\Exam.Entity.dll
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\bin\Exam.Common.pdb
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\bin\Exam.DAL.pdb
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\bin\Exam.Entity.pdb
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\bin\roslyn\csc.exe
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\bin\roslyn\vbc.exe
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\bin\Exam.dll.config
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\bin\Exam.dll
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\bin\Exam.pdb
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\bin\Exam.Common.dll
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\bin\Exam.DAL.dll
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\bin\Exam.Entity.dll
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\bin\Exam.Common.pdb
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\bin\Exam.DAL.pdb
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\bin\Exam.Entity.pdb
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\obj\Debug\Exam.dll.licenses
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\obj\Debug\Exam.dll
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam\obj\Debug\Exam.pdb
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\bin\roslyn\csc.exe
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\bin\roslyn\vbc.exe
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\bin\Exam.dll.config
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\bin\Exam.dll
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\bin\Exam.pdb
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\bin\Exam.Common.dll
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\bin\Exam.DAL.dll
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\bin\Exam.Entity.dll
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\bin\Exam.Common.pdb
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\bin\Exam.DAL.pdb
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\bin\Exam.Entity.pdb
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\obj\Debug\Exam.dll.licenses
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\obj\Debug\Exam.dll
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam\obj\Debug\Exam.pdb
+C:\Users\Emine Hatun\Desktop\Exam\Exam\bin\roslyn\csc.exe
+C:\Users\Emine Hatun\Desktop\Exam\Exam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emine Hatun\Desktop\Exam\Exam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emine Hatun\Desktop\Exam\Exam\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\bin\roslyn\vbc.exe
+C:\Users\Emine Hatun\Desktop\Exam\Exam\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emine Hatun\Desktop\Exam\Exam\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emine Hatun\Desktop\Exam\Exam\bin\Exam.dll.config
+C:\Users\Emine Hatun\Desktop\Exam\Exam\bin\Exam.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\bin\Exam.pdb
+C:\Users\Emine Hatun\Desktop\Exam\Exam\bin\Exam.Common.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\bin\Exam.DAL.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\bin\Exam.Entity.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\bin\Exam.Common.pdb
+C:\Users\Emine Hatun\Desktop\Exam\Exam\bin\Exam.DAL.pdb
+C:\Users\Emine Hatun\Desktop\Exam\Exam\bin\Exam.Entity.pdb
+C:\Users\Emine Hatun\Desktop\Exam\Exam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emine Hatun\Desktop\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\Exam\Exam\obj\Debug\Exam.dll.licenses
+C:\Users\Emine Hatun\Desktop\Exam\Exam\obj\Debug\Exam.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\obj\Debug\Exam.pdb

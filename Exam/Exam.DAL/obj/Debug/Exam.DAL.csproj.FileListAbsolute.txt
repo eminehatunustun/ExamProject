@@ -1,0 +1,90 @@
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam.DAL\bin\Debug\Exam.DAL.dll
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam.DAL\bin\Debug\Exam.DAL.pdb
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam.DAL\bin\Debug\Exam.Common.dll
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam.DAL\bin\Debug\Exam.Entity.dll
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam.DAL\bin\Debug\Exam.Common.pdb
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam.DAL\bin\Debug\Exam.Entity.pdb
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam.DAL\obj\Debug\Exam.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam.DAL\obj\Debug\Exam.DAL.dll
+C:\Users\Emine Hatun\Desktop\ödevler\Exam\Exam.DAL\obj\Debug\Exam.DAL.pdb
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam.DAL\bin\Debug\Exam.DAL.dll
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam.DAL\bin\Debug\Exam.DAL.pdb
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam.DAL\bin\Debug\Exam.Common.dll
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam.DAL\bin\Debug\Exam.Entity.dll
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam.DAL\bin\Debug\Exam.Common.pdb
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam.DAL\bin\Debug\Exam.Entity.pdb
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam.DAL\obj\Debug\Exam.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam.DAL\obj\Debug\Exam.DAL.dll
+C:\Users\Wissen\Desktop\Ex\Ex\Exam\Exam\Exam.DAL\obj\Debug\Exam.DAL.pdb
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam.DAL\bin\Debug\Exam.DAL.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam.DAL\bin\Debug\Exam.DAL.pdb
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam.DAL\bin\Debug\Exam.Common.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam.DAL\bin\Debug\Exam.Entity.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam.DAL\bin\Debug\Exam.Common.pdb
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam.DAL\bin\Debug\Exam.Entity.pdb
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam.DAL\obj\Debug\Exam.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam.DAL\obj\Debug\Exam.DAL.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam\Exam\Exam.DAL\obj\Debug\Exam.DAL.pdb
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam.DAL\obj\Debug\Exam.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam.DAL\obj\Debug\Exam.DAL.dll
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam.DAL\obj\Debug\Exam.DAL.pdb
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam.DAL\bin\Debug\Exam.DAL.dll
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam.DAL\bin\Debug\Exam.DAL.pdb
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam.DAL\bin\Debug\Exam.Common.dll
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam.DAL\bin\Debug\Exam.Entity.dll
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam.DAL\bin\Debug\Exam.Common.pdb
+C:\Users\Wissen\Desktop\Exam1\Exam1\Exam\Exam\Exam.DAL\bin\Debug\Exam.Entity.pdb
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam.DAL\bin\Debug\Exam.DAL.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam.DAL\bin\Debug\Exam.DAL.pdb
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam.DAL\bin\Debug\Exam.Common.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam.DAL\bin\Debug\Exam.Entity.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam.DAL\bin\Debug\Exam.Common.pdb
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam.DAL\bin\Debug\Exam.Entity.pdb
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam.DAL\obj\Debug\Exam.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam.DAL\obj\Debug\Exam.DAL.dll
+C:\Users\Emine Hatun\Desktop\Exam1\Exam1\Exam1\Exam\Exam\Exam.DAL\obj\Debug\Exam.DAL.pdb
+C:\Users\Wissen\Desktop\x\Exam\Exam.DAL\bin\Debug\Exam.DAL.dll
+C:\Users\Wissen\Desktop\x\Exam\Exam.DAL\bin\Debug\Exam.DAL.pdb
+C:\Users\Wissen\Desktop\x\Exam\Exam.DAL\bin\Debug\Exam.Common.dll
+C:\Users\Wissen\Desktop\x\Exam\Exam.DAL\bin\Debug\Exam.Entity.dll
+C:\Users\Wissen\Desktop\x\Exam\Exam.DAL\bin\Debug\Exam.Common.pdb
+C:\Users\Wissen\Desktop\x\Exam\Exam.DAL\bin\Debug\Exam.Entity.pdb
+C:\Users\Wissen\Desktop\x\Exam\Exam.DAL\obj\Debug\Exam.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\x\Exam\Exam.DAL\obj\Debug\Exam.DAL.dll
+C:\Users\Wissen\Desktop\x\Exam\Exam.DAL\obj\Debug\Exam.DAL.pdb
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam.DAL\bin\Debug\Exam.DAL.dll
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam.DAL\bin\Debug\Exam.DAL.pdb
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam.DAL\bin\Debug\Exam.Common.dll
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam.DAL\bin\Debug\Exam.Entity.dll
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam.DAL\bin\Debug\Exam.Common.pdb
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam.DAL\bin\Debug\Exam.Entity.pdb
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam.DAL\obj\Debug\Exam.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam.DAL\obj\Debug\Exam.DAL.dll
+C:\Users\Emine Hatun\Desktop\x\x\Exam\Exam.DAL\obj\Debug\Exam.DAL.pdb
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam.DAL\bin\Debug\Exam.DAL.dll
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam.DAL\bin\Debug\Exam.DAL.pdb
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam.DAL\bin\Debug\Exam.Common.dll
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam.DAL\bin\Debug\Exam.Entity.dll
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam.DAL\bin\Debug\Exam.Common.pdb
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam.DAL\bin\Debug\Exam.Entity.pdb
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam.DAL\obj\Debug\Exam.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam.DAL\obj\Debug\Exam.DAL.dll
+C:\Users\Wissen\Desktop\x (1)\x\x\Exam\Exam.DAL\obj\Debug\Exam.DAL.pdb
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam.DAL\bin\Debug\Exam.DAL.dll
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam.DAL\bin\Debug\Exam.DAL.pdb
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam.DAL\bin\Debug\Exam.Common.dll
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam.DAL\bin\Debug\Exam.Entity.dll
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam.DAL\bin\Debug\Exam.Common.pdb
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam.DAL\bin\Debug\Exam.Entity.pdb
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam.DAL\obj\Debug\Exam.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam.DAL\obj\Debug\Exam.DAL.dll
+C:\Users\Emine Hatun\Desktop\x (1)\x (1)\x\x\Exam\Exam.DAL\obj\Debug\Exam.DAL.pdb
+C:\Users\Emine Hatun\Desktop\Exam\Exam.DAL\bin\Debug\Exam.DAL.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam.DAL\bin\Debug\Exam.DAL.pdb
+C:\Users\Emine Hatun\Desktop\Exam\Exam.DAL\bin\Debug\Exam.Common.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam.DAL\bin\Debug\Exam.Entity.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam.DAL\bin\Debug\Exam.Common.pdb
+C:\Users\Emine Hatun\Desktop\Exam\Exam.DAL\bin\Debug\Exam.Entity.pdb
+C:\Users\Emine Hatun\Desktop\Exam\Exam.DAL\obj\Debug\Exam.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\Exam\Exam.DAL\obj\Debug\Exam.DAL.dll
+C:\Users\Emine Hatun\Desktop\Exam\Exam.DAL\obj\Debug\Exam.DAL.pdb

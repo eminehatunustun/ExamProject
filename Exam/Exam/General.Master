@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="General.master.cs" Inherits="Exam.General" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <link href="Script/style.css" rel="stylesheet" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+ <%--   <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>--%>
+<div id="topPan"> &nbsp;<ul>
+    <li><a href="SinavOlustur.aspx">Anasayfa</a></li>
+    <li><a href="Sinavlar.aspx">Sınavlar</a></li>
+    <li><a href="#">&#304;leti&#351;im</a></li>
+  </ul>
+    <a href="#"><img src="images/logo.jpg" alt="Genious Web" border="0" title="Genious Web" /></a></div>
+<div id="bodytopmainPan">
+  <div id="bodytopPan">
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+  </div>   
+</div>
+<div id="bodymainmiddlePan">
+  
+</div>
+<div id="footermainPan">
+  <div id="footerPan">
+   
+    <a href="#"><img src="images/logo.jpg" title="Genious Web" alt="Genious Web" border="0" class="footerlogo" /></a>
+    <ul>
+        <li><a href="#">Anasayfa </a><a href="#">Hakk&#305;m&#305;zda</a>
+      <a href="#">&#304;leti&#351;im</a> </li>
+    </ul>
+    <ul class="templateworld"> 
+      <li> &nbsp &nbsp Design By:Emine Hatun Üstün </li>
+        </ul>
+        </div>
+</div>
+    </form>
+</body>
+</html>
